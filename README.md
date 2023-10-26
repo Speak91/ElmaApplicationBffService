@@ -1,6 +1,5 @@
 # ElmaApplicationBffService
-Микросервис для интеграции с ELMA 365
-
+Микросервис для интеграции
 ## Технологии
 - [Refit] (https://github.com/reactiveui/refit)
 - [AutoMapper] (https://automapper.org/)
